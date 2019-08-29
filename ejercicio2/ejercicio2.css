@@ -1,0 +1,9 @@
+/* COLOR DE FONDO DEL BODY: #2d3e50 */
+/* COLOR DE FONDO DEL MENU: #34495e */
+/* COLOR DE FONDO LINK:HOVER #e84c3d */
+
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
