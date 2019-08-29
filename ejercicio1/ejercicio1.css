@@ -3,3 +3,31 @@
   margin: 0;
   box-sizing: border-box;
 }
+
+h1 {
+  background-color: crimson;
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+h1, p {
+  color: white;
+}
+
+.caja1, .caja2 {
+  border: 10px solid black;
+  padding: 10px;
+}
+
+.caja1 {
+  background-color: navy;
+  width: 250px;
+  height: 150px;
+  margin-bottom: 20px;
+}
+
+.caja2 {
+  background-color: green;
+  width: 50%;
+  height: 100px;
+}
